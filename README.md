@@ -6,7 +6,7 @@
 <img align = right height = 150 width = 150 src ="https://iec.org.pk/wp-content/uploads/2021/03/cropped-024542445.png">
 
 #  Institude Of Emerging Careers
-> This repository contains the Capston Projects that I completed while Learning [Google Data Analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAzFR26lV2lbrGebuhU8O_EnR9Lzi2nFDOEjfSTuBCqSrabbGivgllYaAql6EALw_wcB) from the coursera and [IEC.](http://iec.org.pk)
+> This repository contains the Capston Projects that I completed while Doing [Google Data Analytics certification](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-ROW&utm_content=B2C&campaignid=12566515400&adgroupid=117869292685&device=c&keyword=coursera%20data%20analytics%20course&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507290840624&hide_mobile_promo&gclid=Cj0KCQiAg_KbBhDLARIsANx7wAzFR26lV2lbrGebuhU8O_EnR9Lzi2nFDOEjfSTuBCqSrabbGivgllYaAql6EALw_wcB) Course from the coursera and [IEC.](http://iec.org.pk)
 
 <br>
 
