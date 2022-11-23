@@ -3,7 +3,9 @@
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/maqboolkazmii)
 [![View Linkedin](https://img.shields.io/badge/View-My_Linkedin-blue?logo=Linkedin)](https://www.linkedin.com/in/maqboolkazmi/)
 
-
+#  Sale Data Analysis Of Resturants
+> This repository contains the exploratory data analysis of Sales of Resturant data.This was a task from IEC.
+<br> 
 **Schema (MySQL v8.0)**
 
     create table orders (id integer, country text, customer_id integer,
