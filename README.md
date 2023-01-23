@@ -43,6 +43,20 @@
 ---
 
 
+## 🌟 Capstone Project-II -Uber & Lyft Data Analysis (Python | PowerBI)
+
+> Problem Statement:
+1. Analyze the data of Uber & Lyft and and find out how uber can increase revenue ?
+2. Recommand some Solutions to increse the revenue.
+
+
+**Solution:**
+
+[![task-3](https://img.shields.io/badge/Uber_&_Lyft_Data_Analysis-(Python_|_PowerBI)-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects)
+
+---
+
+
 
 
 
