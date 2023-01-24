@@ -38,7 +38,7 @@
 
 **Solution:**
 
-[![task-2](https://img.shields.io/badge/North_Wind_Data_Analysis-MS_SQL-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects)
+[![task-2](https://img.shields.io/badge/North_Wind_Data_Analysis-MS_SQL-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects/tree/main/Capstone%20Project-I%20Northwind%20Data%20Analysis)
 
 ---
 
@@ -52,7 +52,7 @@
 
 **Solution:**
 
-[![task-3](https://img.shields.io/badge/Uber_&_Lyft_Data_Analysis-(Python_|_PowerBI)-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects)
+[![task-3](https://img.shields.io/badge/Uber_&_Lyft_Data_Analysis-(Python_|_PowerBI)-971901?style=for-the-badge&logo=GITHUB)]([https://github.com/maqboolkazmii/Google_Data_Analyst_Projects](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects/tree/main/Capstone_Projects-II%20Uber%20and%20Lyft%20Data%20Analysis))
 
 ---
 
