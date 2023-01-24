@@ -52,7 +52,7 @@
 
 **Solution:**
 
-[![task-3](https://img.shields.io/badge/Uber_&_Lyft_Data_Analysis-(Python_|_PowerBI)-971901?style=for-the-badge&logo=GITHUB)]([https://github.com/maqboolkazmii/Google_Data_Analyst_Projects]([https://github.com/maqboolkazmii/Google_Data_Analyst_Projects/tree/main/Capstone_Projects-II%20Uber%20and%20Lyft%20Data%20Analysis](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects/tree/main/Capstone_Projects-II%20Uber%20and%20Lyft%20Data%20Analysis)
+[![task-3](https://img.shields.io/badge/Uber_&_Lyft_Data_Analysis-(Python_|_PowerBI)-971901?style=for-the-badge&logo=GITHUB)](https://github.com/maqboolkazmii/Google_Data_Analyst_Projects/tree/main/Capstone_Projects-II%20Uber%20and%20Lyft%20Data%20Analysis)
 
 ---
 
